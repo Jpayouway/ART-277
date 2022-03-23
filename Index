@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+ <!----header section---->
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="lang" content="en" />
+        <title>
+            Art277 Assignment
+        </title>
+        <Style>
+            P{
+            text-align:justify;
+            }
+        </Style>
+<!---- body section----->
+        <body>
+            <h1>Where can I get some?</h1>
+            <p> <b>There are many variations of passages of Lorem Ipsum available, but the majority have suffered<br> 
+                alteration in some form, by injected humour, or <b><u>randomized words</u></b> which don't look even slightly <br>
+                believable.</b> If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything<br> 
+                embarrassing hidden in the middle of text.<i> All the Lorem Ipsum generators on the Internet tend to repeat <br>
+                predefined chunks as necessary, making this the first true generator on the Internet.</i> It uses a dictionary <br>of over 
+                200 Latin words, combined with a handful of model sentence structures, to generate Lorem <br>Ipsum which looks 
+                reasonable. The generated Lorem Ipsum is therefore always free from repetition, <br>injected humour, or non-characteristic words etc.
+
+                <h2>What is Lorem Ipsum?</h2>
+                <p> <strong>Lorem Ipsum </strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been<br> the 
+                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of <br>type and 
+                    scrambled it to make a type specimen book. It has survived not only five centuries, but also <br>the leap into 
+                    electronic typesetting, remaining essentially unchanged. It was popularised in the <br>1960s with the release of 
+                    Letraset sheets containing Lorem Ipsum passages, and more recently with <br>desktop publishing software like 
+                    <b><i><u>Aldus PageMaker</u></i></b> including versions of <i>Lorem Ipsum.</i> <b>1914 trans-<br>lation by H. Rackham</b></p>
+
+                    <ul>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>labore 
+                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco <br>laboris nisi 
+                        ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in <br>voluptate velit esse 
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat <br>non proident, sunt in culpa 
+                        qui officia deserunt mollit anim id est laborum.</ul>
+                <h3>Why do we use it?</h3>
+                <p>It is a long established fact that a reader will be distracted by the readable content of a page when <br>looking at its 
+                    layout. The point of using Lorem Ipsum is that it has a more-or-less normal distrib-<br>ution of letters, as opposed to 
+                    using “Content here, content here”, making it look like readable <br>English. Many desktop publishing packages and 
+                    web page editors now use Lorem Ipsum as their <br> default model text, and a search for “lorem Ipsum” will uncover 
+                    many web sites still in their <br>infancy. Various versions have evolved over the years, sometimes by accident, 
+                    sometimes on <br>purpose (injected humour and the like).</p>
+                <hr>
+<!---- address section----->
+                <b>Art 277 Section 3 & 4<br></b>
+                <i><b>Starz University<br>
+                Chessman <abbr title="Avenue">Ave,</abbr> Airfield, Sinkor<br>
+                Monrovia-Liberia</i></b>
+            </p>
+        </body>
+    </head>
+</html>
